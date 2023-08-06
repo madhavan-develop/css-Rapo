@@ -1,0 +1,59 @@
+div{
+    background-color: yellow;
+    border:3px solid rgb(22, 21, 21);
+    height:900px;
+    display:flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+h1{
+    text-align: center;
+}
+.dashed{
+    outline-style: dashed;
+    width:700px;
+    margin:20px;
+    padding:20px;
+    outline-width: 5px;
+    
+}
+.dotted{
+    outline-style: dotted;
+    width:700px;
+    margin:20px;
+    padding:20px;
+    outline-width: 5px;
+    
+}
+.solid{
+    outline-style:solid;
+    width:700px;
+    margin:20px;
+    padding:20px;
+    outline-width: 5px;
+    
+}
+.inset{
+    outline-style:inset;
+    width:700px;
+    margin:20px;
+    padding:20px;
+    outline-width: 5px;
+    
+}
+.outset{
+    outline-style:outset;
+    width:700px;
+    margin:20px;
+    padding:20px;
+    outline-width: 5px;
+    
+}
+.groove{
+    outline-style:groove;
+    width:700px;
+    margin:20px;
+    padding:20px;
+    outline-width:5px;
+}

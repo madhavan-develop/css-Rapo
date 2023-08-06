@@ -1,0 +1,33 @@
+nav{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+}
+a{
+    text-decoration: none;
+    color:black;
+    font-size: 17px;
+    padding: 20px;
+}
+a:hover{
+    border-bottom: 2px solid yellow;
+}
+.section_Content{
+    text-align: center;
+    margin-top:15%;
+}
+.section_Head{
+    font-size: 80px;
+    color:white;
+}
+button{
+    border:3px solid yellow;
+    padding:10px;   
+}
+body{
+    background-image: url("https://media.istockphoto.com/id/1047699430/photo/overhead-view-on-business-people-around-desk.webp?b=1&s=170667a&w=0&k=20&c=M8LZeJIs-jl9gnSCxTA83-mSu2wH2R6G_6mZXZbEVfk=");
+    background-size: cover;
+}
+.nav_Img{
+    opacity: 0.6;
+}

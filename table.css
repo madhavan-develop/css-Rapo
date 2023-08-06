@@ -1,0 +1,16 @@
+table{
+    border:1px solid black;
+    border-collapse: collapse;
+    
+}
+th,td{
+    border:1px solid black;
+    width:300px;
+    height:70px;
+    text-align: center;
+}
+table tr:nth-child(2)
+{
+    background-color: aqua;
+    vertical-align: bottom;
+}

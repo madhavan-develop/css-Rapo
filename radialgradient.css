@@ -1,0 +1,17 @@
+body{
+    background-image:radial-gradient(red,yellow,green);
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+h1{
+    text-align: center;
+}
+p{
+    margin:10%;
+}
+nav{
+    background-color: yellow;
+    padding:20px;
+    text-align: center;
+    text-transform: uppercase;
+}

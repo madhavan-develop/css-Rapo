@@ -1,0 +1,13 @@
+.carrer{
+    width:800px;
+}
+table{
+    border:1px solid black;
+    border-collapse: collapse;
+    text-align: center;
+    
+}
+th,td{
+    border: 1px solid black;
+    padding: 20px;
+}

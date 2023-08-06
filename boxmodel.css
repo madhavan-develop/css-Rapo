@@ -1,0 +1,59 @@
+nav{
+    background-color: tomato;
+    padding: 20px;
+    text-align: center;
+}
+a{
+    
+    text-decoration: none;
+    padding: 10px;
+    color: white;
+}
+a:hover {
+    background-color: blue;
+
+}
+img{
+    float:right;
+}
+h1{
+    text-align: center;
+    width:600px;
+}
+p{
+    text-align: center;
+    text-align: justify;
+    width:600px;
+    height:100px;
+}
+footer{
+    background-color: tomato;
+    color:#ffffff;
+    bottom:10px;
+    padding:20px;
+    
+    /* margin-top:100px; */
+}
+.neymar{
+    position:fixed;
+    right: 100px;
+}
+.n1{
+    position:fixed;
+    right: 300px;
+    top:300px;
+}
+.n2{position:fixed;
+    right: 100px;
+    top:350px;
+    
+}
+div{
+    background-color: aqua;
+    margin:0;
+    
+    
+}
+.child{
+    background-color: aqua;
+}

@@ -1,0 +1,35 @@
+.nav{
+    display: flex;
+    justify-content: space-between;
+    position: sticky;
+    top:0;
+}
+a{
+    text-decoration: none;
+    color:white;
+    padding: 20px;
+    
+    
+}
+a:hover{
+    background-color:rgb(3, 3, 78);
+}
+.temp{
+    position:fixed;
+    left:300px;
+    top:180px;
+}
+h1{
+    font-size: 40px;
+}
+body{
+    background-image:linear-gradient(to right , rgb(247, 247, 14),rgb(230, 23, 23));
+}
+button{
+border-radius: 15px;
+border-color: white;
+padding:8px;
+}
+  img{
+
+  }

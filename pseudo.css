@@ -1,0 +1,38 @@
+.nav{
+    display: flex;
+    justify-content:space-between;
+    background-color:tomato ;
+    padding:20px;
+}
+*{
+    background-color: aqua;
+}
+a{
+    text-decoration: none;
+}
+a:hover{
+    background-color: white;
+}
+a:link{
+    background-color: yellow;
+}
+a:active{
+    background-color: red;
+}
+a:visited{
+    background-color: aqua;
+}
+.nav a:nth-child(3){
+    background-color: green;
+}
+
+h1{
+    text-align: center;
+}
+img{
+padding: 10px;
+margin:10px;
+}
+.pseudo p:nth-child(3){
+    background-color: yellow;
+}

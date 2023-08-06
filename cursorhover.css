@@ -1,0 +1,45 @@
+nav ul{
+    background-color: tomato;
+    list-style-type:none;
+    display: flex;
+    justify-content: space-around;
+    padding:20px;
+}
+a{
+    text-decoration: none;
+    color:white;
+}    
+.nav_List1{
+    cursor:alias;
+}
+.nav_List2{
+    cursor:all-scroll;
+}
+.nav_List3{
+    cursor:cell;
+}
+.nav_List4{
+    cursor:context-menu;
+}
+.section_Head{
+    cursor:crosshair;
+    text-align: center;
+}
+.section_paragraph{
+    cursor: cell;
+}
+body{
+    background-color:pink;
+}
+.section_Cursor{
+    display:flex;
+    justify-content: center;
+    flex-direction:column;
+    align-items:center;
+}
+button{
+    border:1px solid black;
+    padding:10px;
+    border-radius: 15px;
+    cursor: all-scroll;
+}

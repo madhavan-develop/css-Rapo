@@ -1,0 +1,62 @@
+.shadow_Box1{
+    height:260px;
+    width:300px;
+    border:1px solid black;
+    padding:15px;
+    background-color: white;
+    border:none;
+    border-radius: 15px;
+    box-shadow: 5px 10px rgb(73, 72, 72);
+}
+.shadow_Box2{
+    height:260px;
+    width:300px;
+    border:1px solid black;
+    text-align: center;
+    padding: 15px;
+    background-color: white;
+    border:none;
+    border-radius: 15px;
+    box-shadow: 5px 10px rgb(73, 72, 72);
+}
+.shadow_Box3{
+    height:260px;
+    width:300px;
+    border:1px solid black;
+    text-align: center;
+    padding:15px;
+    background-color: white;
+    border:none;
+    border-radius: 15px;
+    box-shadow: 5px 10px rgb(73, 72, 72);
+}
+.box_Shadow{
+    display:flex;
+    justify-content: center;
+    column-gap: 10px;
+    margin-top: 10%;
+    text-align: center;
+}
+.box1_Design,.box2_Design,.box3_Design{
+    font-size: 20px;
+    margin: 10px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+button{
+    width:180px;
+    padding: 6px;
+    border:none;
+}
+.box1_Button{
+    background-color: yellow;
+}
+.box2_Button{
+    background-color: blue;
+}
+.box3_Button{
+    background-color: green;
+}
+body{
+    background-color: aqua;
+}

@@ -1,0 +1,35 @@
+*{
+    margin:0;
+    padding: 0;
+}
+nav{
+    background-color: black;
+    padding:20px;
+}
+section{
+    background-color: aqua;
+}
+.section_Head{
+cursor: alias;
+text-align: center;
+text-transform: uppercase;
+}
+.section_image1{
+    cursor:all-scroll;
+    padding: 20px;
+}
+.section_Paragraph{
+    cursor:cell;
+}
+.secton_Head1{
+    cursor:context-menu;
+    text-align: center;
+}
+.section_image2{
+    cursor:crosshair;
+    padding: 20px;
+}
+.section_Paragraph2{
+    cursor:col-resize;
+    width:700px;
+}

@@ -1,0 +1,29 @@
+.main_Layout{
+    display:flex;
+    background-color: grey;
+    
+}
+.neymar_Layout{
+    column-count: 2;
+    width:700px;
+    border:1px solid black;
+    border-width: 5px;
+    column-width: 5px;
+    margin:20px;
+    padding: 20px;
+    background-color: yellow;
+    text-align: justify;
+}
+.jr_Layout{
+    column-count: 2;
+    width:700px;
+    border:1px solid black;
+    border-width: 5px;
+    margin:20px;
+    padding: 20px;
+    background-color: yellow;
+    text-align: justify;
+}
+.neymar_Head,.jr_Head{
+    text-decoration: underline;
+}

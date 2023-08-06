@@ -1,0 +1,45 @@
+.section_Head{
+    text-align: center;
+}
+body{
+    background-color: yellow;
+    border:2px solid black;
+    padding:20px;
+}
+.section_Main::first-line{
+    background-color: black;
+    color:white;
+}
+/* used in first-line element */
+.section_Main::first-letter{
+    background-color: pink;
+    color:black;
+    font-weight: bold;
+}
+ /* used in first-letter element */
+.section_Head::after{
+    content:"unlimited";
+    color:red;
+}
+/* used in after element */
+.section_Head::before{
+    content:"hyderabad";
+    color:white;
+}
+/* used in before element */
+.section_Paragraph::selection{
+    color:white;
+}
+/* used in selection element */
+li::marker{
+    color:red;
+}
+/* used in marker element */
+header{
+    background-color: black;
+    color:white;
+    padding:20px;
+    text-align: center;
+    font-size: 25px;
+    text-transform: uppercase;
+}

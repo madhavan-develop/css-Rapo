@@ -1,0 +1,38 @@
+.one{
+background-color: white;
+padding:60px;
+margin:15%;
+text-align: center;
+border-radius: 15px;
+
+
+}
+body{
+    background-image:linear-gradient(to right,rgb(196, 238, 11),rgb(219, 12, 12));
+}
+h1{
+    /* position:relative;
+    left:40%; */
+}
+p{
+    /* position:fixed;
+    margin-left:70%;
+     */
+}
+button{
+    background-image:linear-gradient(to right,rgb(196, 238, 11),rgb(219, 12, 12));
+    
+}
+.two{
+    width:150px;
+    height:150px;
+    border:2px solid black;
+    position:absolute;
+    top:45%;
+    left:13%;
+    background-image:linear-gradient(to right,rgb(228, 25, 10),rgb(219, 12, 12));
+    border-color: red;
+    border-radius: 15px;
+    box-shadow: 5px 10px rgb(247, 168, 168);
+
+}  

@@ -1,0 +1,43 @@
+*{
+    
+    display:flex;
+
+}
+.a{
+    background-color: skyblue;
+    width: 200px;
+    height: 200px; 
+    margin-right: 5px;
+    
+}
+.b{
+    background-color: skyblue;  
+    width: 200px;
+    height: 200px; 
+    border:20px solid black;
+    display:block;
+    margin-right: 5px;
+    
+
+}
+.c{
+    background-color: skyblue;
+    width: 200px;
+    height: 200px; 
+    border:20px solid black;
+    padding:20px;
+    margin-right: 5px;
+    display:block;
+
+}
+    
+
+.d{
+    background-color: skyblue;
+    width: 200px;
+    height: 200px; 
+    border:20px solid black;
+    padding:20px;
+    margin:20px;
+    
+}

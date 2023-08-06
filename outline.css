@@ -1,0 +1,85 @@
+.a{
+    display:flex;
+    justify-content: space-around;
+    margin:10px;
+}
+.b{
+    display: flex;
+    justify-content: space-around;
+    margin:10px;
+}
+.c{
+    display:flex;
+    justify-content: space-around;
+    margin:10px;
+}
+body{
+    margin:10%;
+    margin-left:10px;
+}
+.dashed{
+    outline-style: dashed;
+    outline-color: green;
+    padding:20px;
+    width:70px;
+    outline-width: 10px;
+}
+.dotted{
+    outline-style: dotted;
+    outline-color: green;
+    padding:20px;
+    width:70px;
+    outline-width: 10px;
+}
+.solid{
+    outline-style: solid;
+    outline-color: green;
+    padding:20px;
+    width:70px;
+    outline-width: 10px;
+}
+.double{
+    outline-style: double;
+    outline-color: green;
+    padding:20px;
+    width:70px;
+    outline-width: 10px;
+}
+.groove{
+    outline-style: groove;
+    outline-color: green;
+    padding:20px;
+    width:70px;
+    outline-width: 10px;
+}
+.ridge{
+    outline-style:ridge ;
+    outline-color: green;
+    padding:20px;
+    width:70px;
+    outline-width: 10px;
+}
+.inset{
+    outline-style: inset;
+    outline-color: green;
+    padding:20px;
+    width:70px;
+    outline-width: 10px;
+}
+.outset{
+    outline-style:outset;
+    outline-color: green;
+    padding:20px;
+    width:70px;
+    outline-width: 10px;
+}
+.none{
+    outline-style: none;
+    outline-color: green;
+    padding:20px;
+    width:70px;
+    outline-width: 10px;
+   
+
+  
+}

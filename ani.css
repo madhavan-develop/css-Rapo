@@ -1,0 +1,42 @@
+body{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1-xnHXkRKcq0KgQtN5e2SV7cVu_HoJpW4aA&usqp=CAU");
+    display:flex;
+    background-size: cover;
+    
+    
+}
+img{
+    
+    margin-top: 70%;
+    animation-name: maadhu;
+    animation-duration: 4s;
+    border-radius: 50%;
+
+}
+@keyframes maadhu {
+from{
+    transform:translateX(-200px);
+}   
+to{
+    transform: translatex(200px);
+} 
+}
+.ney{
+    margin-left: 50%;
+    position:fixed;
+    bottom: 50%;
+    animation-name: neymar;
+    animation-duration: 4s;
+    color: white;
+
+}
+@keyframes neymar {
+    from{
+        transform:translatex(200px) ;
+    }
+    to{
+        transform: translateX(-200px);
+    }
+    
+}
+    

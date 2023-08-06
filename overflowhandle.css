@@ -1,0 +1,22 @@
+.overflow_Header{
+    text-align: center;
+    padding:20px;
+    background-color:tomato ;
+    text-transform: uppercase;
+}
+.overflow_Section{
+    width:1200px;
+    height:600px;
+    overflow:visible;
+    background-color:pink;
+    padding: 20px;
+    margin:20px;
+    overflow:scroll;
+    overflow-y: scroll;
+    overflow-x: scroll;
+}
+.overflow_Head{
+    text-align: center;
+    text-transform:uppercase ;
+    text-decoration: underline red;
+}

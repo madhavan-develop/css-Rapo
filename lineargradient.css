@@ -1,0 +1,33 @@
+.section_Login{
+    text-align: center;
+    background-color: white;
+    margin-left:36%;
+    margin-right:37%;
+    margin-top: 90px;
+    padding:80px;
+}
+body{
+    background-image: linear-gradient(rgb(192, 231, 18),rgb(238, 7, 7));
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+input[type="text"]
+{
+    width:220px;
+    padding: 8px;
+    border: none;
+    border-bottom: 1px solid black;
+}
+.section_Input{
+    width:220px;
+    padding: 8px;
+    border: none;
+    border-bottom: 1px solid black;
+}
+.section_button{
+    width:220px;
+    padding: 8px;
+    border-radius: 15px;
+    background-image: linear-gradient(rgb(99, 9, 99),violet)
+}
+

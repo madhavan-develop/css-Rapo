@@ -1,0 +1,33 @@
+.p1{
+    background-color:pink;
+    width:400px;
+    text-align: justify;
+}
+.p2{
+    background-color: aqua;
+    width:400px;
+    text-align: justify;
+    padding:40px;
+    margin-bottom: 0;
+}
+.p3{
+    background-color: blue;
+    width:400px;
+    text-align: justify;
+    padding-top:50px; 
+    margin-top:0;
+        
+}
+.p4{
+    background-color: tomato;
+    width:400px;
+    text-align: justify;
+    padding-left: 20px;
+
+}
+.p5{
+    background-color: yellow;
+    width:400px;
+    padding-right: 20px;
+    text-align: justify;
+}
